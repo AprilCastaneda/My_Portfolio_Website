@@ -22,3 +22,9 @@
 }
 
 #kitty { height: 100px; }
+
+body { padding-top: 70px; color: #D5D5D5; }
+a {color:#8496b3;}
+a:hover { color: #d061c7; text-decoration: underline;}
+#pink { color: #d061c7; }
+#projects { height: 500px; width: 100%; }
